@@ -1,4 +1,4 @@
-
+#random loading bar
 import time
 import os
 import random
